@@ -7,3 +7,22 @@ color: blue;
 .student{
     background-color: blueviolet;
 }
+
+[type]{
+    width: 200px;
+}
+input + a{
+    color: red;
+}
+
+p:first-child{
+    color: chartreuse;
+}
+p:first-of-type{
+    color: brown;
+}
+
+div ~ a{
+    color: chocolate;
+}
+
